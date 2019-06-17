@@ -1,0 +1,16 @@
+{
+  "name": "electron-renderer-2-minute-wss-server-timeout",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "author": "",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "electron": "^5.0.4",
+    "ws": "^7.0.0",
+    "wscat": "^2.2.1"
+  }
+}
