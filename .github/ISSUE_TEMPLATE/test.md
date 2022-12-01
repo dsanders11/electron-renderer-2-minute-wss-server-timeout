@@ -1,7 +1,7 @@
 ---
 name: Crash
 about: Crash, boom, crash
-labels: bug
+labels: bug :bug:
 
 ---
 
